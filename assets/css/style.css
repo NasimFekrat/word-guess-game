@@ -1,0 +1,41 @@
+/*
+colors:
+peru: #b39558
+        #382909
+blue: #0b53bf
+red: #d90d26
+lightbluebackground: #eaebef
+white: f4f4f4
+*/
+body{
+    background-image: url("../images/USAFlag.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+}
+.logo{
+    width: 400px;
+    height:175px;
+    background-image: url("../images/logo.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin: 20px auto;
+    padding: 0px;
+}
+.container{
+    border: 10px solid;
+    border-color: #cfbd83;
+    border-radius: 15px 50px 30px;
+    background-color: #eaebef;
+    color: #382909;
+    width: 400px;
+    margin: 10px auto;
+    font-family: 'Yrsa', serif;
+    padding: 20px;
+}
+.word{
+    font-size: 30px;
+    font-weight: bold;
+}
