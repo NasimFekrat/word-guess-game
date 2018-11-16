@@ -4,6 +4,8 @@
 
 Here you can find a game. This app will run in the browser, and feature dynamically updated HTML and CSS powered by JavaScript code.
 
+- - -
+
 ## Word Guess Game
 
 * Press any key to get started!
@@ -19,3 +21,10 @@ Here you can find a game. This app will run in the browser, and feature dynamica
 * Letters Already Guessed: (Letters the user has guessed, displayed like `L Z Y H`).
 
 * After the user wins/loses the game should automatically choose another word and make the user play it. 
+
+- - -
+
+### URL
+
+* You can find it in the following URL:
+    * https://nasimfekrat.github.io/unit-4-game/.
