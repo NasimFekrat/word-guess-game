@@ -27,4 +27,4 @@ Here you can find a game. This app will run in the browser, and feature dynamica
 ### URL
 
 * You can find it in the following URL:
-    * https://nasimfekrat.github.io/unit-4-game/.
+    * https://nasimfekrat.github.io/word-guess-game/
